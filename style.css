@@ -77,7 +77,6 @@ body * {
 }
 
 .light #switch button {
-  rigth: 0;
   left: initial;
  animation: slide-in 0.4s forwards;
 }
