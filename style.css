@@ -168,13 +168,13 @@ footer {
     left: 0;
   }
   to {
-    left: 50%;
+    left: 32px;
   }
 }
 
 @keyframes slide-back {
   from {
-    left: 50%;
+    left: 32px;
   }
   to {
     left: 0;
